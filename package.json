@@ -1,0 +1,27 @@
+{
+  "name": "koa-or-and",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "YeFei <316606233@qq.com>",
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "app",
+    "http",
+    "framework",
+    "koa"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yefei/koa-or-and.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yefei/koa-or-and/issues"
+  },
+  "dependencies": {
+    "koa-compose": "^4.1.0"
+  },
+  "devDependencies": {
+    "koa": "^2.13.4"
+  }
+}
