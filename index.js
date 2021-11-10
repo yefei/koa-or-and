@@ -17,7 +17,7 @@ function or(...middleware) {
           await dispatch(i + 1);
           return;
         }
-        throw new Error('All middleware fail');
+        throw err;
       }
     }
   };
